@@ -1,11 +1,16 @@
-# Design
+# Wireframes
+
+![index-html](https://user-images.githubusercontent.com/87907988/137641320-36cb5b7c-1377-4228-ab6d-918c57f1f01d.png)
+![aboutus-html](https://user-images.githubusercontent.com/87907988/137641329-8d4a995d-851b-4605-9afd-dfe492650ac4.png)
+![rent-html](https://user-images.githubusercontent.com/87907988/137641347-071a2d5c-383d-4802-b41e-176a67d152f8.png)
+![buy-html](https://user-images.githubusercontent.com/87907988/137641350-48cb76a9-d56a-4d6f-8088-725b8b9068f4.png)
+![models-html](https://user-images.githubusercontent.com/87907988/137641356-36a6c550-26ff-41b6-87ea-afa28cd48a8b.png)
+
+
+
 
 <!-- give an overview of your project's design -->
 
 <!-- provide a link to your wireframe documenting on Figma, or wherever it is -->
-
-[link to wireframe](https://github.com/HackYourFutureBelgium/workflows/blob/master/project-starter/wireframe.svg)
-
----
 
 <!-- describe some of the reasoning behind your group's design and wireframe -->
