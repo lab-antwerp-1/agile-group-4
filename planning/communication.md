@@ -35,14 +35,14 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day       | Ashenafi | Mervat  | Daniel  | Mohammed | Omer  |
+| Day       | Ashenafi | Mervat  | Hans | Mohammed | Omer  |
 | --------- | :------: | :-----: | :-----: | :------: | :-----: |
-| Monday    | 10 - 13  | 15 - 20 | 10 - 18 | 13 - 20  | 09 - 12 |
-| Tuesday   | 10 - 13  | 10 - 18 | 10 - 18 | 13 - 20  | 19 - 24 |
-| Wednesday | 10 - 13  | 15 - 20 | 10 - 18 | 13 - 20  | 19 - 24 |
-| Thursday  | 10 - 13  | 15 - 20 | 10 - 18 | 13 - 20  | 09 - 12 |
-| Friday    | 10 - 13  | not available | 13 - 17 | 13 - 20  | 10 - 24 |
-| Saturday  | 13 - 18  | 10 - 18 | 10 - 17 | 13 - 20  | 10 - 24 |
+| Monday    | 10 - 13  | 15 - 20 | 2 - 18 | 13 - 20  | 09 - 12 |
+| Tuesday   | 10 - 13  | 10 - 18 | 2 - 18 | 13 - 20  | 19 - 24 |
+| Wednesday | 10 - 13  | 15 - 20 | 2 - 18 | 13 - 20  | 19 - 24 |
+| Thursday  | 10 - 13  | 15 - 20 | 2 - 18 | 13 - 20  | 09 - 12 |
+| Friday    | 10 - 13  | not available | 2 - 18  | 13 - 20  | 10 - 24 |
+| Saturday  | 13 - 18  | 10 - 18 | 2 - 18  | 13 - 20  | 10 - 24 |
 
 
 ### How many hours everyone has per day
@@ -51,7 +51,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 - Maurice: 6h
 - Daniel: _8/7h_;
 - Khaled: 4-5h;
-- name: _3h_;
+- Hans: _3h_;
 
 ## Asking for Help
 
