@@ -2,7 +2,7 @@
 
 ## Overview
 
-We will make a website about car renting and selling (buying) company. It will consists of 5 html pages in total.
+We will make a website about car renting and selling (buying) company. It will consist of 5 html pages in total.
 In each page, there will be header (banner+title), navigation bar and footer links. 
 Contact nav link will direct user to footer links. 
 Footer links will provide Facebook, Twitter, Youtube, Gmail links and also address/tel info. 
