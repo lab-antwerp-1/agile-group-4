@@ -51,7 +51,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 - Maurice: 6h
 - Daniel: _8/7h_;
 - Khaled: 4-5h;
-- name: _3h_;
+- Hans: _3h_;
 
 ## Asking for Help
 
