@@ -1,14 +1,16 @@
-# Group-3's project
+# Agile-Group-4's project
 
-This is a sample project about a basic website on trees. Nothing spectacular but
-some good planning.
+We decided to make a website about cars. We aim nothing spectacular but
+some good planning and coding.
 
 The main purpose of this project is to practice and develop a team workflow to
 learn how to plan and collaborate.
 
 ## Group members
 
-- [Maurice](#link)
+- [Mervat](#link)
 - [Ashenafi](#link)
-- [Khaled](#link)
-- [Daniel](#link)
+- [Ömer](#link)
+- [Hans](#link)
+- [Zakariya](#link)
+- [Rupam](https://github.com/Rphoof)
