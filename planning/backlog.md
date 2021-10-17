@@ -1,16 +1,30 @@
-# Backlog
+# select topic for webpage
 
-## Must Haves
+- [ ] Auto
 
-> these are necessary for basic usability
+## must have
 
-- **Home Page**
-  - As a user I can read the title of the page
-    - [ ] _there is a prominent title at the top of the web page_
-  - As a user I can read an introduction to this project
-    - [ ] _there is a section directly under the navbar describing the project's
-          goals_
-  - As a user I can learn about trees
-    - [ ] _there is a main text in the page with helpful info and links_
-  - As a user I can learn even more about trees
-  - [ ] _there is an aside with links for further reading_
+- as a user i want to see the title of the website
+
+  - [ ] create title html, css
+
+- as a user i want to read an introduction on what the webpage is about
+  - [ ] create introduction html, css
+
+## should have
+
+- as a user i want to see the website logo
+
+  - [ ] create logo html, css
+
+- as a user i want to have links to useful information
+
+  - [ ] add links html, css
+
+- As a user I can see a section of contact us to learn more about the project
+  - [ ] add about us section html, css
+
+## could have
+
+- as a user i want to follow navigation bars to the different sections
+  - [ ] add navigation buttons in the navigation bar html,css
