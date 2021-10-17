@@ -35,14 +35,14 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day       | Ashenafi | Maurice | Daniel  | Mohammed | Omer  |
+| Day       | Ashenafi | Mervat  | Daniel  | Mohammed | Omer  |
 | --------- | :------: | :-----: | :-----: | :------: | :-----: |
-| Monday    | 16 - 23  | 12 - 23 | 10 - 18 | 13 - 20  | 09 - 12 |
-| Tuesday   | 16 - 23  | 19 - 23 | 10 - 18 | 13 - 20  | 19 - 24 |
-| Wednesday | 16 - 23  | 12 - 23 | 10 - 18 | 13 - 20  | 19 - 24 |
-| Thursday  | 16 - 23  | 19 - 23 | 10 - 18 | 13 - 20  | 09 - 12 |
-| Friday    | 16 - 23  | 19 - 23 | 13 - 17 | 13 - 20  | 10 - 24 |
-| Saturday  | 13 - 18  | 17 - 22 | 10 - 17 | 13 - 20  | 10 - 24 |
+| Monday    | 16 - 23  | 15 - 20 | 10 - 18 | 13 - 20  | 09 - 12 |
+| Tuesday   | 16 - 23  | 10 - 18 | 10 - 18 | 13 - 20  | 19 - 24 |
+| Wednesday | 16 - 23  | 15 - 20 | 10 - 18 | 13 - 20  | 19 - 24 |
+| Thursday  | 16 - 23  | 15 - 20 | 10 - 18 | 13 - 20  | 09 - 12 |
+| Friday    | 16 - 23  | not available | 13 - 17 | 13 - 20  | 10 - 24 |
+| Saturday  | 13 - 18  | 10 - 18 | 10 - 17 | 13 - 20  | 10 - 24 |
 
 ### How many hours everyone has per day
 
