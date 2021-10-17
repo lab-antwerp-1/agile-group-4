@@ -37,11 +37,11 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 | Day       | Ashenafi | Maurice | Daniel  | Mohammed | Omer  |
 | --------- | :------: | :-----: | :-----: | :------: | :-----: |
-| Monday    | 16 - 23  | 12 - 23 | 10 - 18 | 13 - 20  | 09 - 12 |
-| Tuesday   | 16 - 23  | 19 - 23 | 10 - 18 | 13 - 20  | 19 - 24 |
-| Wednesday | 16 - 23  | 12 - 23 | 10 - 18 | 13 - 20  | 19 - 24 |
-| Thursday  | 16 - 23  | 19 - 23 | 10 - 18 | 13 - 20  | 09 - 12 |
-| Friday    | 16 - 23  | 19 - 23 | 13 - 17 | 13 - 20  | 10 - 24 |
+| Monday    | 10 - 13  | 12 - 23 | 10 - 18 | 13 - 20  | 09 - 12 |
+| Tuesday   | 10 - 13  | 19 - 23 | 10 - 18 | 13 - 20  | 19 - 24 |
+| Wednesday | 10 - 13  | 12 - 23 | 10 - 18 | 13 - 20  | 19 - 24 |
+| Thursday  | 10 - 13  | 19 - 23 | 10 - 18 | 13 - 20  | 09 - 12 |
+| Friday    | 10 - 13  | 19 - 23 | 13 - 17 | 13 - 20  | 10 - 24 |
 | Saturday  | 13 - 18  | 17 - 22 | 10 - 17 | 13 - 20  | 10 - 24 |
 
 ### How many hours everyone has per day
