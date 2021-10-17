@@ -1,42 +1,19 @@
-# All About Trees
+ ## development strategy
 
-> only `must have` user stories need to be in the development strategy
+> a living document of the work process
 
-A simple little website about trees.
+## planning
 
----
+- [x] schedule group meeting time
+- [x] come up with concept for webpage
+- [x] write [user stories](./backlog.md)
+- [x] create[wireframe for webpage layout](./wireframe.md)
 
-> all issues in this section have a `for: site title` label
+## organization
 
-## Site Title
+- [x] create[project board](https://github.com/lab-antwerp-1/agile-group-4/projects/1)
+- [x] create[backlog of user stories](./backlog.md)
+- [ ] divide workload between members of the group
+- [x] assign [issues](./issues.md)
 
-> "as a user can read the title of the page"
-
-The site needs a clear title that's easy to read at the top of the page.
-
-### Interface: Site Title
-
-> all the issues under this header have a `type: interface` label
-
-- Header with centered title
-  - (_this list can be copy-pasted as a checklist in the issue_)
-  - (_you might add an `html` and `css` label to this issue_)
-  - [ ] HTML: a header element with the title
-  - [ ] CSS: a class to center the title
-
----
-
-## Introduction
-
-> "As a user I can read an introduction to this project"
-
-It should be clear what this project is for and what someone can expect from the
-web page.
-
-### Interface: Introduction
-
-- A body of text and links
-  - [ ] HTML: a section with some general information about the project
-  - [ ] CSS: a class to make the text look fancy
-
----
+## production
