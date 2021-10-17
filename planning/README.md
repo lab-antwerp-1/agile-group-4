@@ -8,9 +8,9 @@ learn how to plan and collaborate.
 
 ## Group members
 
-- [Mervat](#link)
-- [Ashenafi](#link)
-- [Ömer](#link)
-- [Hans](#link)
-- [Zakariya](#link)
+- [Mervat](https://github.com/Mervatabuamro)
+- [Ashenafi](https://github.com/ashenafykebede)
+- [Ömer](https://github.com/omerjava)
+- [Hans](https://github.com/HansMbua)
+- [Zakaria](https://github.com/ZakariaSallout)
 - [Rupam](https://github.com/Rphoof)
