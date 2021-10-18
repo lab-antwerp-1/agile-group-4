@@ -6,7 +6,10 @@ We will make a website about car renting and selling (buying) company. It will c
 In each page, there will be header (banner+title), navigation bar and footer links. 
 Contact nav link will direct user to footer links. 
 Footer links will provide Facebook, Twitter, Youtube, Gmail links and also address/tel info. 
-This is first draft. With proposals it will be improved.
+This is first draft. With proposals it will be improved. Edit: 'Buy' page will be cancelled instead there will be 
+separate 'ContactUs' page. 'Buy' nav link will be deleted also. Our company will be only a rent a car firm. 
+Wireframes will be adjusted accordingly later on. You can design your MAiN part in your chosen page according to 
+your wish. These wireframes are just to give idea.
 
 ![index-html](https://user-images.githubusercontent.com/87907988/137641320-36cb5b7c-1377-4228-ab6d-918c57f1f01d.png)
 ![aboutus-html](https://user-images.githubusercontent.com/87907988/137641329-8d4a995d-851b-4605-9afd-dfe492650ac4.png)
