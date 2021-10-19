@@ -1,8 +1,8 @@
-# All About Trees
+# Cars for Everyone
 
 > only `must have` user stories need to be in the development strategy
 
-A simple little website about trees.
+A simple little website about Cars sales and renting.
 
 ---
 
@@ -40,3 +40,11 @@ web page.
   - [ ] CSS: a class to make the text look fancy
 
 ---
+## About us page
+> "As a user I can read a describtion of the website Vision and mession, the services it offers, and the project's history"
+
+### Interface: About us
+
+- A body of text and pictures
+  - [ ] HTML: a section with some describtion about the project
+  - [ ] CSS: a class to make the text look fancy
