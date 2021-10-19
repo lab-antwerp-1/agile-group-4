@@ -53,3 +53,33 @@
     - [ ] the website will be responsive
 - ----
 - **about us page**
+ 
+ - **CONTACT US**
+
+ ## must have
+
+- as a user i want to see the title of the website
+
+  - [ ] create title html, css
+
+- as a user i want to see the Contact of the company
+
+  - [ ] create introduction html, css
+
+## should have
+
+- as a user i want to see the website logo
+
+  - [ ]  create logo html, css
+
+- as a user i want to see the contact Information of the company 
+
+  - [ ]  add contact html, css 
+
+- As a user I want so be able to send a message from the website
+  - [ ]  contact us html ( form.html ), css
+
+## could have
+
+- as a user i want see a map and see the location of the company 
+  - [ ] add map javaScript 
