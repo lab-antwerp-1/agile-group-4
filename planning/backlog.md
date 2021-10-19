@@ -17,3 +17,14 @@
     - [ ] _there will be Social Media account links in footer part of each page_
   - As a user I can see the links to Facebook, Twitter, Youtube, Gmail accounts in footer part 
     - [ ] _there will be the links of Facebook, Twitter, Youtube, Gmail accounts in footer part_
+
+- **about us page**
+   - As a user I can see the titel "about us" at the header
+    - [ ]_there is a title for the about us page_
+   - As a user I can read two statements of the website vision and mission
+    - [ ] _there is a two statements about vision and mission_
+   - As a user I can read a description of the website's history and services
+    - [ ] _there is a paragraph explaning the website's history and services_
+  
+
+## Should have
