@@ -56,8 +56,6 @@
  
  - **CONTACT US**
 
- ## must have
-
 - as a user i want to see the title of the website
 
   - [ ] create title html, css
