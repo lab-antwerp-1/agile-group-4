@@ -28,6 +28,8 @@
 
   - As a site visitor I can read the company name as a header
     - [ ] _there is a company name as a header below the navbar_
+  - As a user I can see a background image of cars in the homepage
+    - [ ] _there is an image of cars that covers more than half of the page_
   - As a user I can learn some quick facts about the company
     - [ ] there is a short description paragraph about the company below the
           header
@@ -40,13 +42,27 @@
 
 ---
 
-- **about us page**
+- **About Us page**
+
   - As a user I can see the title "about us" at the header
-  - [ ] _there is a title for the about us page_
+    - [ ] _there is a title for the about us page_
   - As a user I can read two statements of the website vision and mission
-  - [ ] _there is a two statements about vision and mission_
+    - [ ] _there is a two statements about vision and mission_
   - As a user I can read a description of the website's history and services
-  - [ ] _there is a paragraph explaining the website's history and services_
+
+    - [ ] _there is a paragraph explaining the website's history and services_
+
+    ---
+
+- **Contact Us page**
+
+  - as a user I want to see the title of the website
+
+    - [ ] create title html, css
+
+  - as a user i want to see the Contact of the company
+
+    - [ ] create introduction html, css
 
 ## Should-haves
 
@@ -57,41 +73,47 @@
 ---
 
 - **Homepage**
-  - As a user I can see a background image of cars in the homepage
-    - [ ] _there is an image of cars that covers more than half of the page_
-  - As a user I can sign-up in the website for additional services/access
-    - [ ] There is a register button next to explore more
+
   - As a user I can navigate through the website using my phone smoothly
     - [ ] the website will be responsive
 
 ---
 
-- **about us page**
+- **About us page**
 
-- **CONTACT US**
+---
 
-- as a user i want to see the title of the website
+- **Contact Us page**
 
-  - [ ] create title html, css
+  - As a user I want to see the website logo
 
-- as a user i want to see the Contact of the company
+    - [ ] create logo html, css
 
-  - [ ] create introduction html, css
+  - As a user I want to see the contact Information of the company
 
-## should have
+    - [ ] add contact html, css
 
-- as a user i want to see the website logo
+  - As a user I want so be able to send a message from the website
+    - [ ] contact us html ( form.html ), css
 
-  - [ ] create logo html, css
+## could-haves
 
-- as a user i want to see the contact Information of the company
+- **Header and footer**
 
-  - [ ] add contact html, css
+---
 
-- As a user I want so be able to send a message from the website
-  - [ ] contact us html ( form.html ), css
+- **Home page**
 
-## could have
+  - As a user I can sign-up in the website for additional services/access
+    - [ ] There is a register button next to explore more
 
-- as a user i want see a map and see the location of the company
-  - [ ] add map javaScript
+---
+
+- **About us page**
+
+---
+
+- **Contact Us page**
+
+  - As a user I want see a map and see the location of the company
+    - [ ] add map javaScript

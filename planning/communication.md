@@ -2,13 +2,22 @@
 
 ## Tasks
 
-| Tasks                                           | Responsible |  Dateline  |
-| ----------------------------------------------- | :---------: | :--------: |
-| Must have's - Head - CSS 1/26 - Title and intro |  Ashenafi   | 14/10/2021 |
-| Could have's - Body - CSS 27/47 - Main info     |   Daniel    | 14/10/2021 |
-|                                                 |   Khaled    |            |
-| Should have's - Footer - CSS 48/76 - Footer     |   Maurice   | 14/10/2021 |
-|                                                 |  Mohammed   |            |
+| Tasks                                                     | Responsible |
+ Deadline  |
+| --------------------------------------------------------- | :---------: |
+:--------: | ---------- |
+| Backlog, dev-strategy,html, CSS, userpersonas of homepage |  Ashenafi   |
+23/10/2021
+|                                                           |   Mervat    |
+23/10/2021 |
+|                                                           |    Omer     |
+23/10/2021 |
+|                                                           |    Hans     |
+23/10/2021
+|                                                           |             |
+| 23/10/2021 |
+|                                                           |   Zakaria   |
+23/10/2021 |
 
 <!-- any general rules you'd like to set for your group? -->
 
@@ -16,9 +25,9 @@
 
 ## Communication Schedule
 
-| Day         |     How      | The topic of discussion   |
-| ----------- | :----------: | ------------------------- |
-| 13-Oct-2021 | google meets | Workflows/Project-starter |
+| Day         |     How      | The topic of discussion |
+| ----------- | :----------: | ----------------------- |
+| 18-Oct-2021 | zoom meeting | Agile development       |
 
 ## Communication Channels
 
@@ -35,14 +44,22 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day       | Ashenafi |    Mervat     |  Hans  | Mohammed |  Omer   | Rupam |
-| --------- | :------: | :-----------: | :----: | :------: | :-----: | :----: |
-| Monday    | 10 - 13  | 15 - 20  | 2 - 18 | 13 - 20  | 09 - 12 | not available |
-| Tuesday   | 10 - 13  |10 - 18 | 2 - 18 | 13 - 20  | 19 - 24 | not available |
-| Wednesday | 10 - 13  |15 - 20 | 2 - 18 | 13 - 20  | 19 - 24 | 17 - 19    |
-| Thursday  | 10 - 13  | 15 - 20 | 2 - 18 | 13 - 20  | 09 - 12 | 18 - 20    |
-| Friday    | 10 - 13 |not available| 2 - 18 | 13 - 20  | 10 - 24 | 18 - 20 |
-| Saturday  | 13 - 18 | 10 - 18 | 2 - 18 | 13 - 20  | 10 - 24 | not available |
+| Day       | Ashenafi |    Mervat     |  Hans  | Mohammed |  Omer   |  
+   Rupam     |
+| --------- | :------: | :-----------: | :----: | :------: | :-----: |
+:-----------: |
+| Monday    | 10 - 13  |    15 - 20    | 2 - 18 | 13 - 20  | 09 - 12 |
+not available |
+| Tuesday   | 10 - 13  |    10 - 18    | 2 - 18 | 13 - 20  | 19 - 24 |
+not available |
+| Wednesday | 10 - 13  |    15 - 20    | 2 - 18 | 13 - 20  | 19 - 24 |  
+  17 - 19    |
+| Thursday  | 10 - 13  |    15 - 20    | 2 - 18 | 13 - 20  | 09 - 12 |
+   18 - 20    |
+| Friday    | 10 - 13  | not available | 2 - 18 | 13 - 20  | 10 - 24 |  
+  18 - 20    |
+| Saturday  | 13 - 18  |    10 - 18    | 2 - 18 | 13 - 20  | 10 - 24 |
+not available |
 
 ### How many hours everyone has per day
 
