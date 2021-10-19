@@ -11,50 +11,64 @@
     - [ ] _there will be a nice banner at the top every page_
   - As a user I can use navigation links under the banner in every page
     - [ ] _there will be navigation links under the banner in every page_
-  - As a user I can see the links to Home, About Us, Rent, Models, Contact Us in navigation links
-    - [ ] _there will be the links of Home, About Us, Rent, Models, Contact Us in navigation links_
+  - As a user I can see the links to Home, About Us, Rent, Models, Contact Us in
+    navigation links
+    - [ ] _there will be the links of Home, About Us, Rent, Models, Contact Us
+          in navigation links_
   - As a user I can see Social Media account links in footer part of each page
     - [ ] _there will be Social Media account links in footer part of each page_
-  - As a user I can see the links to Facebook, Twitter, Youtube, Gmail accounts in footer part 
-    - [ ] _there will be the links of Facebook, Twitter, Youtube, Gmail accounts in footer part_
- - ---
+  - As a user I can see the links to Facebook, Twitter, Youtube, Gmail accounts
+    in footer part
+    - [ ] _there will be the links of Facebook, Twitter, Youtube, Gmail accounts
+          in footer part_
+
+---
+
 - **Home page**
 
   - As a site visitor I can read the company name as a header
     - [ ] _there is a company name as a header below the navbar_
   - As a user I can learn some quick facts about the company
-    - [ ] there is a short description paragraph about the company below the header
+    - [ ] there is a short description paragraph about the company below the
+          header
   - As a user I can click a button to learn more about the company
     - [ ] _there is a button with a link to the about us page_
   - As a user I can see a header for the services given by company
     - [ ] there is a header called our services
   - As a user I can read the core services of the company
     - [ ] there is a list of three services in 3 columns
-  
--  -------
+
+---
 
 - **about us page**
-   - As a user I can see the title "about us" at the header
+  - As a user I can see the title "about us" at the header
   - [ ] _there is a title for the about us page_
-   - As a user I can read two statements of the website vision and mission
-    - [ ] _there is a two statements about vision and mission_
-   - As a user I can read a description of the website's history and services
-    - [ ] _there is a paragraph explaining the website's history and services_
+  - As a user I can read two statements of the website vision and mission
+  - [ ] _there is a two statements about vision and mission_
+  - As a user I can read a description of the website's history and services
+  - [ ] _there is a paragraph explaining the website's history and services_
+
 ## Should-haves
+
 > these complete the user experience
+
 - **Header and footer**
-- ----
+
+---
+
 - **Homepage**
-   - As a user I can see a background image of cars in the homepage
-      - [ ] _there is an image of cars that covers more than half of the page_
+  - As a user I can see a background image of cars in the homepage
+    - [ ] _there is an image of cars that covers more than half of the page_
   - As a user I can sign-up in the website for additional services/access
     - [ ] There is a register button next to explore more
   - As a user I can navigate through the website using my phone smoothly
     - [ ] the website will be responsive
-- ----
+
+---
+
 - **about us page**
- 
- - **CONTACT US**
+
+- **CONTACT US**
 
 - as a user i want to see the title of the website
 
@@ -68,16 +82,16 @@
 
 - as a user i want to see the website logo
 
-  - [ ]  create logo html, css
+  - [ ] create logo html, css
 
-- as a user i want to see the contact Information of the company 
+- as a user i want to see the contact Information of the company
 
-  - [ ]  add contact html, css 
+  - [ ] add contact html, css
 
 - As a user I want so be able to send a message from the website
-  - [ ]  contact us html ( form.html ), css
+  - [ ] contact us html ( form.html ), css
 
 ## could have
 
-- as a user i want see a map and see the location of the company 
-  - [ ] add map javaScript 
+- as a user i want see a map and see the location of the company
+  - [ ] add map javaScript
