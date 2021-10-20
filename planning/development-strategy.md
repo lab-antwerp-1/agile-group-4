@@ -40,11 +40,13 @@ web page.
   - [ ] CSS: a class to make the text look fancy
 
 ---
+
 ## About us page
 
 > " As a user I can see an about us page"
 
-As a user I can read a description of the website Vision and mission, the services it offers, and the project's history
+As a user I can read a description of the website Vision and mission, the
+services it offers, and the project's history
 
 ### Interface: About us
 

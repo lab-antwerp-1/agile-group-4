@@ -1,6 +1,17 @@
 {
   "language": "en",
-  "words": ["Ashenafi", "Khaled", "wireframe"],
+  "words": [
+    "Ashenafi",
+    "Gmail",
+    "Khaled",
+    "Mervat",
+    "Ömer",
+    "Rupam",
+    "userpersonas",
+    "wireframe",
+    "Wireframes",
+    "Zakaria"
+  ],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
