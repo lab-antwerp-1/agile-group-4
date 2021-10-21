@@ -50,15 +50,15 @@ how often will we get in touch on each channel, and what we will discuss there:
 :-----------: |
 | Monday    | 10 - 13  |    15 - 20    | 2 - 18 | 13 - 20  | 09 - 12 |
 not available |
-| Tuesday   | 10 - 13  |    10 - 18    | 2 - 18 | 13 - 20  | 19 - 24 |
+| Tuesday   | 10 - 13  |    10 - 18    | 2 - 18 | 13 - 20  | 19 - 23 |
 not available |
-| Wednesday | 10 - 13  |    15 - 20    | 2 - 18 | 13 - 20  | 19 - 24 |  
+| Wednesday | 10 - 13  |    15 - 20    | 2 - 18 | 13 - 20  | 19 - 23 |  
   17 - 19    |
 | Thursday  | 10 - 13  |    15 - 20    | 2 - 18 | 13 - 20  | 09 - 12 |
    18 - 20    |
-| Friday    | 10 - 13  | not available | 2 - 18 | 13 - 20  | 10 - 24 |  
+| Friday    | 10 - 13  | not available | 2 - 18 | 13 - 20  | 20 - 24 |  
   18 - 20    |
-| Saturday  | 13 - 18  |    10 - 18    | 2 - 18 | 13 - 20  | 10 - 24 |
+| Saturday  | 13 - 18  |    10 - 18    | 2 - 18 | 13 - 20  | 20 - 24 |
 not available |
 
 ### How many hours everyone has per day
