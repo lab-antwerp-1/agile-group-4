@@ -9,7 +9,7 @@ body {
   margin: 0 auto;
   overflow: hidden;
   border: 1px solid black;
-  background: url("/assets/bnn.png") no-repeat center;
+  background: url("https://cdn.glitch.me/79cb6b9e-afd0-4163-a458-c1305878e3f0%2Fbnn.png?v=1634856319469") no-repeat center;
 }
 .company_name {
   max-width: 80%;
