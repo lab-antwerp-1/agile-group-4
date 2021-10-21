@@ -9,7 +9,7 @@ body {
   margin: 0 auto;
   overflow: hidden;
   border: 1px solid black;
-  background: url("/assets/bnn.png") no-repeat center;
+  background: url("./assets/bnn.png") no-repeat center;
 }
 .company_name {
   max-width: 80%;
