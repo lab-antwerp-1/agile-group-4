@@ -12,12 +12,10 @@ _Some boundaries around our project._
 
 <!--  constraints that come from within your team, and you have no control over. they may include:  - each of your individual skill levels  - amount of time available to work on the project-->
 
-- We won't use JS since our knowledge is limited.
-
 - We will use only HTML and CSS.
 
-- We will have the least possible call sessions due to difficulties with team
-  member's schedule.
+- We will have slack communication and subgroup online meeting sessions due to
+  difficulties with team member's availability time mismatch.
 
 ## Internal: Voluntary
 
@@ -28,4 +26,6 @@ _Some boundaries around our project._
 - Every PR should be reviewed and approved by at least 1 team members before
   merging.
 
-- We won't apply any palette color for the current project.
+- We will use checklists to review a pull request
+
+- We will focus more on the agile development strategy than building a fancy website
