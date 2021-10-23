@@ -51,7 +51,7 @@ A website about Car-rentals
 
 - Footer with Social Media account links
   - [ ] HTML: a footer with 4 links will be designed and located at the bottom of each page.
-  It will consist of Facebook, Twitter, Gmail, Youtube links.
+  It will consist of Facebook, Twitter, Gmail, Youtube links
   - [ ] CSS: classes will be applied for style to the links and footer container
 
 ---
