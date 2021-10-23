@@ -77,7 +77,6 @@ header nav ul li a:hover {
 ===========================================*/
 .bgimg {
   background-image: url("https://cdn.glitch.me/15e18ec9-256a-403f-bcad-e11ac1885b68%2Fpexels-pixabay-164634.jpg?v=1634943704627");
-  opacity: 0.2;
   min-height: 40vh;
   background-repeat: no-repeat;
   background-size: cover;
@@ -89,19 +88,20 @@ header nav ul li a:hover {
 .hometext {
   position: absolute;
   text-align: center;
-  top: 20%;
-  color: rgb(19, 20, 20);
+  color: #fff;
   width: 100%;
-  height: 80%;
-  background-color: rgba(0, 0, 0, 0.15);
+  height: 100%;
+  background-color: rgba(128, 128, 128, 0.5);
   text-shadow: 5px 5px 8px black;
   font-weight: 700;
 }
-
+.hometext h2 {
+  margin-top: 20px;
+}
 .hometext p {
   width: 80%;
   text-align: center;
-  margin: auto;
+  margin: 30px auto;
   font-size: 16px;
 }
 .btn {
@@ -135,12 +135,14 @@ header nav ul li a:hover {
 /*making homepage responsive*/
 @media screen and (max-width: 600px) {
   .bgimg {
-    height: 60%;
+    height: 80%;
     width: 100%;
   }
   .hometext {
-    height: 90%;
-    top: 10%;
+    height: 100%;
+  }
+  .hometext p {
+    margin: auto;
   }
   .service {
     height: 40%;
