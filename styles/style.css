@@ -115,6 +115,9 @@ header nav ul li a:hover {
   cursor: pointer;
   border-radius: 10%;
 }
+.btn:hover {
+  opacity: 0.5;
+}
 .service {
   text-align: center;
 }
