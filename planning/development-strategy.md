@@ -13,7 +13,8 @@ A website about Car-rentals
 ### Interface: Title of website
 
 - Title
-  - [ ] HTML: a title will be provided in the banner and also at the top of browser window 
+  - [ ] HTML: a title will be provided in the banner and also at the top of 
+  browser window 
   - [ ] CSS: a class will be applied for style
 
 ---
@@ -50,8 +51,8 @@ A website about Car-rentals
 ### Interface: Footer in every page
 
 - Footer with Social Media account links
-  - [ ] HTML: a footer with 4 links will be designed and located at the bottom of each page.
-  It will consist of Facebook, Twitter, Gmail, Youtube links
+  - [ ] HTML: a footer with 4 links will be designed and located at the bottom of 
+  each page. It will consist of Facebook, Twitter, Gmail, Youtube links
   - [ ] CSS: classes will be applied for style to the links and footer container
 
 ---
