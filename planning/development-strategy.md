@@ -8,13 +8,14 @@ A website about Car-rentals
 
 ## Brief description about BNN car-rental
 
-> "As a user I can read a brief statement about BNN and click a button for details"
+> "As a user I can read a brief statement about BNN and click a button for
+> details"
 
 ### Interface: Brief statement about BNN car-rental
 
 - A body of text and links
   - [ ] HTML: a section with some brief description about BNN and a button for
-  more details
+        more details
   - [ ] CSS: a set of classes to style the contents
 
 ---
