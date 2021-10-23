@@ -7,7 +7,7 @@ body {
 }
 .banner_container {
   max-width: 80%;
-  height: 120px;
+  height: 110px;
   margin: 0 auto;
   overflow: hidden;
   border: 1px solid black;
@@ -77,7 +77,7 @@ header nav ul li a:hover {
 ===========================================*/
 .bgimg {
   background-image: url("https://cdn.glitch.me/15e18ec9-256a-403f-bcad-e11ac1885b68%2Fpexels-pixabay-164634.jpg?v=1634943704627");
-  opacity: 0.3;
+  opacity: 0.2;
   min-height: 40vh;
   background-repeat: no-repeat;
   background-size: cover;
