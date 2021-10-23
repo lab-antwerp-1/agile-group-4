@@ -6,6 +6,56 @@ A website about Car-rentals
 
 ---
 
+## Title of website
+
+> "As a user I can read the title of the page"
+
+### Interface: Title of website
+
+- Title
+  - [ ] HTML: a title will be provided in the banner and also at the top of browser window 
+  - [ ] CSS: a class will be applied for style
+
+---
+
+## Banner above navbar
+
+> "As a user I can see a nice banner at the top of every page"
+
+### Interface: Banner above navbar
+
+- Banner with nice car photos
+  - [ ] HTML: a banner will be designed and located in the header section 
+  - [ ] CSS: a class will be created for style of banner container
+
+---
+
+## Navbar in every page
+
+> "As a user I can use navigation links under the banner in every page"
+
+### Interface: Navbar in every page
+
+- Navbar with navigation links
+  - [ ] HTML: a navbar with 5 links will be designed and located under the banner.
+  It will consist of Home, About us, Rent, Models, Contact us links.
+  - [ ] CSS: classes will be applied for style to the nav, ul, li, a tags
+
+---
+
+## Footer in every page
+
+> "As a user I can see Social Media account links in footer part of each page"
+
+### Interface: Footer in every page
+
+- Footer with Social Media account links
+  - [ ] HTML: a footer with 4 links will be designed and located at the bottom of each page.
+  It will consist of Facebook, Twitter, Gmail, Youtube links.
+  - [ ] CSS: classes will be applied for style to the links and footer container
+
+---
+
 ## Brief description about BNN car-rental
 
 > "As a user I can read a brief statement about BNN and click a button for details"
