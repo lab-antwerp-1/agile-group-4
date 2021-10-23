@@ -28,4 +28,5 @@ _Some boundaries around our project._
 
 - We will use checklists to review a pull request
 
-- We will focus more on the agile development strategy than building a fancy website
+- We will focus more on the agile development strategy than building a fancy
+  website
