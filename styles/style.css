@@ -36,12 +36,11 @@ body {
 }
 .menu_container {
   max-width: 80%;
-  max-height: 6vh;
+  max-height: 120px;
   margin: 0 auto;
   overflow: hidden;
   border: 1px solid black;
   background: #d9dde6;
-  width: 100%;
 }
 header nav ul {
   max-width: 80%;
@@ -67,7 +66,7 @@ header nav ul li a:hover {
 }
 .main_container {
   max-width: 80%;
-  height: 72vh;
+  min-height: 400px;
   margin: 0 auto;
   overflow: hidden;
   border: 1px solid black;
