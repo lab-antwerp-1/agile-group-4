@@ -18,7 +18,9 @@ font-family: 'Courier New', Courier, monospace;
     background:url(car2.jpg);
     background-size: cover;
 }
-
+.contactForm{
+    
+}
 .contact .content{
     max-width: 800px;
   text-align: center;
@@ -31,7 +33,7 @@ font-family: 'Courier New', Courier, monospace;
     color: #fff;
 }
 
-.contact .content p{
+.contact.content p{
     font-weight: 300;
     color: #fff;
 }
@@ -125,6 +127,11 @@ font-family: 'Courier New', Courier, monospace;
 }
 
 /* send button  */
+.send:hover {
+    cursor: pointer;
+    box-shadow: 0 0 10px rgb(49, 65, 80);
+  }
+
 .contactForm .inputbox .send{
     color: rgb(58, 82, 82);
     padding: 20px;
@@ -134,7 +141,4 @@ font-family: 'Courier New', Courier, monospace;
     outline: none;
   }
   
-  .send:hover {
-    cursor: pointer;
-    box-shadow: 0 0 10px rgb(49, 65, 80);
-  }
+ 
